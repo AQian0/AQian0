@@ -1,6 +1,7 @@
-<div style="text-align:center;">
-  <span style="font-size:2em; font-weight: bold;">- 正 好 年 华 -</span>
+<div align="center">
+  <strong>- 正 好 年 华 -</strong>
 </div>
+
 <br />
 一名前端工程师，大概只会Vue，正在学Rust
 <br />
