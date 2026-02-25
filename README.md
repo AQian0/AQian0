@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="./profile/top-lang.svg">
+  <img src="./profile/top-langs.svg">
 </div>
 
 ---
