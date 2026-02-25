@@ -9,11 +9,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AQian0&theme=vue&hide_border=false&include_all_commits=false&count_private=false">
+  <img src="./profile/stats.svg">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AQian0&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img src="./profile/top-lang.svg">
 </div>
 
 ---
