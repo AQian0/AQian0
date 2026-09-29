@@ -9,15 +9,15 @@
 ---
 
 <div align="center">
-  <img src="./profile/stats.svg">
+  <img src="./profile/stats.svg" alt="GitHub 统计">
 </div>
 
 <div align="center">
-  <img src="./profile/top-langs.svg">
+  <img src="./profile/top-langs.svg" alt="最常使用的编程语言">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AQian0&theme=vue">
+  <img src="./profile/activity.svg" alt="最近 31 天的 GitHub 贡献活动">
 </div>
